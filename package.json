@@ -1,0 +1,25 @@
+{
+  "name": "algobytes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.4"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domingodominic/algobytes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/domingodominic/algobytes/issues"
+  },
+  "homepage": "https://github.com/domingodominic/algobytes#readme"
+}
